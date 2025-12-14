@@ -31,7 +31,7 @@ pkg upgrade -y
 pkg install python nmap git -y
 git clone
 https://github.com/arebazgamer123-prog/nmap-ai-powered.git
-cd nmap-ai-framework
+cd nmap-ai-powered
 python nmap.py
 
 ## 🖥️ How to Run on Linux / Kali Linux (Step-by-Step)
@@ -42,8 +42,8 @@ Copy and paste the commands below in **Linux / Kali Linux terminal**:
 sudo apt update -y
 sudo apt upgrade -y
 sudo apt install python3 nmap git -y
-git clone https://github.com/arebazgame/nmap-ai-framework.git
-cd nmap-ai-framework
+git clone https://github.com/arebazgamer123-prog/nmap-ai-powered.git
+cd nmap-ai-powered
 python3 nmap.py
 
 ## 👨‍💻 About Me
